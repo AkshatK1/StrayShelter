@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "101654097772",
+    "firebase_url": "https://stray-shelter.firebaseio.com",
+    "project_id": "stray-shelter",
+    "storage_bucket": "stray-shelter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101654097772:android:6fc5655b15a922daa88d49",
+        "android_client_info": {
+          "package_name": "com.example.current_location"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101654097772-itro3m4jetgmd133pe97s0aghcadngv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXFQWvLG0MZDhs7BmLKcD65VRjK9fTH-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101654097772-itro3m4jetgmd133pe97s0aghcadngv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101654097772:android:bea3186d3761bd84a88d49",
+        "android_client_info": {
+          "package_name": "com.example.strayshelter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101654097772-itro3m4jetgmd133pe97s0aghcadngv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXFQWvLG0MZDhs7BmLKcD65VRjK9fTH-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101654097772-itro3m4jetgmd133pe97s0aghcadngv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

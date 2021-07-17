@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">StrayShelter</string>
+    <string name="next">Next</string>
+    <string name="right">Right</string>
+    <string name="center">Center</string>
+    <string name="left">Left</string>
+    <string name="get_started">Get Started</string>
+    <string name="skip">Skip</string>
+    <string name="send">Send</string>
+    <string name="enter_details">Enter Details</string>
+    <string name="_0">0</string>
+    <string name="proceed">Proceed</string>
+</resources>
